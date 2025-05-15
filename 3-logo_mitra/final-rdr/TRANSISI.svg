@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="TRANSISI" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1754 500">
+  <defs>
+    <clipPath id="clippath">
+      <path d="M556.76,280.81h223.34-223.34ZM780.1,280.81c-7.39-1.72-18-5.6-24.97-8.12l-48.8-17.38c-8.23-3.19-18.37-5.35-25.5-8.77V108.28l99.26,172.53ZM556.76,280.81c20.89-39.48,51.59-87.86,73.67-128.4,2.24-4.11,21.56-38.3,25.59-42.95v137.08l-99.26,34.27h0ZM517.77,302.08c0,4.13-.58,9.02,5.5,12.28,3.81,2.05,6.13,1.79,9.86.83,19.22-4.94,130.72-47.61,136.67-46.74l135.8,47.2c8.82,1.49,14.68-6.37,14.68-11.21,0-5.76-5.35-12.32-7.87-16.95l-83.34-144.73c-3.23-5.33-6.21-10.49-9.18-15.64l-37.09-64.53c-3.57-6.64-6.84-12.22-14.96-12.22s-10.14,6.61-13.06,11.75l-119.35,206.8c-3,5.22-5.86,10.09-9.03,15.79-2.4,4.32-8.64,12.4-8.64,17.36h0Z" style="fill: none;"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1">
+    <g id="_2540843085680" data-name=" 2540843085680">
+      <g style="clip-path: url(#clippath);">
+        <g>
+          <polygon points="517.19 317.15 517.19 316.29 820.28 316.29 820.28 317.15 517.19 317.15" style="fill: #41e4ce; fill-rule: evenodd;"/>
+          <polygon id="_1" data-name=" 1" points="517.19 316.89 517.19 315.1 820.28 315.1 820.28 316.89 517.19 316.89" style="fill: #41e4cd; fill-rule: evenodd;"/>
+          <polygon id="_2" data-name=" 2" points="517.19 315.7 517.19 313.9 820.28 313.9 820.28 315.7 517.19 315.7" style="fill: #41e5cd; fill-rule: evenodd;"/>
+          <polygon id="_3" data-name=" 3" points="517.19 314.5 517.19 312.71 820.28 312.71 820.28 314.5 517.19 314.5" style="fill: #40e5cd; fill-rule: evenodd;"/>
+          <polygon id="_4" data-name=" 4" points="517.19 313.3 517.19 311.51 820.28 311.51 820.28 313.3 517.19 313.3" style="fill: #40e5cd; fill-rule: evenodd;"/>
+          <polygon id="_5" data-name=" 5" points="517.19 312.11 517.19 310.31 820.28 310.31 820.28 312.11 517.19 312.11" style="fill: #40e5cd; fill-rule: evenodd;"/>
+          <polygon id="_6" data-name=" 6" points="517.19 310.91 517.19 309.12 820.28 309.12 820.28 310.91 517.19 310.91" style="fill: #40e5cd; fill-rule: evenodd;"/>
+          <polygon id="_7" data-name=" 7" points="517.19 309.71 517.19 307.92 820.28 307.92 820.28 309.71 517.19 309.71" style="fill: #40e5cd; fill-rule: evenodd;"/>
+          <polygon id="_8" data-name=" 8" points="517.19 308.52 517.19 306.72 820.28 306.72 820.28 308.52 517.19 308.52" style="fill: #40e5cd; fill-rule: evenodd;"/>
+          <polygon id="_9" data-name=" 9" points="517.19 307.32 517.19 305.53 820.28 305.53 820.28 307.32 517.19 307.32" style="fill: #40e5cd; fill-rule: evenodd;"/>
+          <polygon id="_10" data-name=" 10" points="517.19 306.13 517.19 304.33 820.28 304.33 820.28 306.13 517.19 306.13" style="fill: #40e5cc; fill-rule: evenodd;"/>
+          <polygon id="_11" data-name=" 11" points="517.19 304.93 517.19 303.13 820.28 303.13 820.28 304.93 517.19 304.93" style="fill: #40e5cc; fill-rule: evenodd;"/>
+          <polygon id="_12" data-name=" 12" points="517.19 303.73 517.19 301.94 820.28 301.94 820.28 303.73 517.19 303.73" style="fill: #40e5cc; fill-rule: evenodd;"/>
+          <polygon id="_13" data-name=" 13" points="517.19 302.54 517.19 300.74 820.28 300.74 820.28 302.54 517.19 302.54" style="fill: #40e5cc; fill-rule: evenodd;"/>
+          <polygon id="_14" data-name=" 14" points="517.19 301.34 517.19 299.55 820.28 299.55 820.28 301.34 517.19 301.34" style="fill: #40e5cc; fill-rule: evenodd;"/>
+          <polygon id="_15" data-name=" 15" points="517.19 300.14 517.19 298.35 820.28 298.35 820.28 300.14 517.19 300.14" style="fill: #40e6cc; fill-rule: evenodd;"/>
+          <polygon id="_16" data-name=" 16" points="517.19 298.95 517.19 297.15 820.28 297.15 820.28 298.95 517.19 298.95" style="fill: #40e6cc; fill-rule: evenodd;"/>
+          <polygon id="_17" data-name=" 17" points="517.19 297.75 517.19 295.96 820.28 295.96 820.28 297.75 517.19 297.75" style="fill: #40e6cc; fill-rule: evenodd;"/>
+          <polygon id="_18" data-name=" 18" points="517.19 296.55 517.19 294.76 820.28 294.76 820.28 296.55 517.19 296.55" style="fill: #40e6cc; fill-rule: evenodd;"/>
+          <polygon id="_19" data-name=" 19" points="517.19 295.36 517.19 293.56 820.28 293.56 820.28 295.36 517.19 295.36" style="fill: #40e6cb; fill-rule: evenodd;"/>
+          <polygon id="_20" data-name=" 20" points="517.19 294.16 517.19 292.37 820.28 292.37 820.28 294.16 517.19 294.16" style="fill: #40e6cb; fill-rule: evenodd;"/>
+          <polygon id="_21" data-name=" 21" points="517.19 292.97 517.19 291.17 820.28 291.17 820.28 292.97 517.19 292.97" style="fill: #40e6cb; fill-rule: evenodd;"/>
+          <polygon id="_22" data-name=" 22" points="517.19 291.77 517.19 289.97 820.28 289.97 820.28 291.77 517.19 291.77" style="fill: #40e6cb; fill-rule: evenodd;"/>
+          <polygon id="_23" data-name=" 23" points="517.19 290.57 517.19 288.78 820.28 288.78 820.28 290.57 517.19 290.57" style="fill: #40e6cb; fill-rule: evenodd;"/>
+          <polygon id="_24" data-name=" 24" points="517.19 289.38 517.19 287.58 820.28 287.58 820.28 289.38 517.19 289.38" style="fill: #40e6cb; fill-rule: evenodd;"/>
+          <polygon id="_25" data-name=" 25" points="517.19 288.18 517.19 286.39 820.28 286.39 820.28 288.18 517.19 288.18" style="fill: #40e6cb; fill-rule: evenodd;"/>
+          <polygon id="_26" data-name=" 26" points="517.19 286.98 517.19 285.19 820.28 285.19 820.28 286.98 517.19 286.98" style="fill: #40e6cb; fill-rule: evenodd;"/>
+          <polygon id="_27" data-name=" 27" points="517.19 285.79 517.19 283.99 820.28 283.99 820.28 285.79 517.19 285.79" style="fill: #40e7cb; fill-rule: evenodd;"/>
+          <polygon id="_28" data-name=" 28" points="517.19 284.59 517.19 282.8 820.28 282.8 820.28 284.59 517.19 284.59" style="fill: #40e7ca; fill-rule: evenodd;"/>
+          <polygon id="_29" data-name=" 29" points="517.19 283.39 517.19 281.6 820.28 281.6 820.28 283.39 517.19 283.39" style="fill: #40e7ca; fill-rule: evenodd;"/>
+          <polygon id="_30" data-name=" 30" points="517.19 282.2 517.19 280.4 820.28 280.4 820.28 282.2 517.19 282.2" style="fill: #40e7ca; fill-rule: evenodd;"/>
+          <polygon id="_31" data-name=" 31" points="517.19 281 517.19 279.21 820.28 279.21 820.28 281 517.19 281" style="fill: #40e7ca; fill-rule: evenodd;"/>
+          <polygon id="_32" data-name=" 32" points="517.19 279.81 517.19 278.01 820.28 278.01 820.28 279.81 517.19 279.81" style="fill: #40e7ca; fill-rule: evenodd;"/>
+          <polygon id="_33" data-name=" 33" points="517.19 278.61 517.19 276.82 820.28 276.82 820.28 278.61 517.19 278.61" style="fill: #40e7ca; fill-rule: evenodd;"/>
+          <polygon id="_34" data-name=" 34" points="517.19 277.41 517.19 275.62 820.28 275.62 820.28 277.41 517.19 277.41" style="fill: #40e7ca; fill-rule: evenodd;"/>
+          <polygon id="_35" data-name=" 35" points="517.19 276.22 517.19 274.42 820.28 274.42 820.28 276.22 517.19 276.22" style="fill: #40e7ca; fill-rule: evenodd;"/>
+          <polygon id="_36" data-name=" 36" points="517.19 275.02 517.19 273.23 820.28 273.23 820.28 275.02 517.19 275.02" style="fill: #40e7ca; fill-rule: evenodd;"/>
+          <polygon id="_37" data-name=" 37" points="517.19 273.82 517.19 272.03 820.28 272.03 820.28 273.82 517.19 273.82" style="fill: #40e7c9; fill-rule: evenodd;"/>
+          <polygon id="_38" data-name=" 38" points="517.19 272.63 517.19 270.83 820.28 270.83 820.28 272.63 517.19 272.63" style="fill: #40e7c9; fill-rule: evenodd;"/>
+          <polygon id="_39" data-name=" 39" points="517.19 271.43 517.19 269.64 820.28 269.64 820.28 271.43 517.19 271.43" style="fill: #40e7c9; fill-rule: evenodd;"/>
+          <polygon id="_40" data-name=" 40" points="517.19 270.24 517.19 268.44 820.28 268.44 820.28 270.24 517.19 270.24" style="fill: #40e8c9; fill-rule: evenodd;"/>
+          <polygon id="_41" data-name=" 41" points="517.19 269.04 517.19 267.24 820.28 267.24 820.28 269.04 517.19 269.04" style="fill: #40e8c9; fill-rule: evenodd;"/>
+          <polygon id="_42" data-name=" 42" points="517.19 267.84 517.19 266.05 820.28 266.05 820.28 267.84 517.19 267.84" style="fill: #40e8c9; fill-rule: evenodd;"/>
+          <polygon id="_43" data-name=" 43" points="517.19 266.65 517.19 264.85 820.28 264.85 820.28 266.65 517.19 266.65" style="fill: #40e8c9; fill-rule: evenodd;"/>
+          <polygon id="_44" data-name=" 44" points="517.19 265.45 517.19 263.66 820.28 263.66 820.28 265.45 517.19 265.45" style="fill: #40e8c9; fill-rule: evenodd;"/>
+          <polygon id="_45" data-name=" 45" points="517.19 264.25 517.19 262.46 820.28 262.46 820.28 264.25 517.19 264.25" style="fill: #40e8c8; fill-rule: evenodd;"/>
+          <polygon id="_46" data-name=" 46" points="517.19 263.06 517.19 261.26 820.28 261.26 820.28 263.06 517.19 263.06" style="fill: #40e8c8; fill-rule: evenodd;"/>
+          <polygon id="_47" data-name=" 47" points="517.19 261.86 517.19 260.07 820.28 260.07 820.28 261.86 517.19 261.86" style="fill: #40e8c8; fill-rule: evenodd;"/>
+          <polygon id="_48" data-name=" 48" points="517.19 260.66 517.19 258.87 820.28 258.87 820.28 260.66 517.19 260.66" style="fill: #40e8c8; fill-rule: evenodd;"/>
+          <polygon id="_49" data-name=" 49" points="517.19 259.47 517.19 257.67 820.28 257.67 820.28 259.47 517.19 259.47" style="fill: #40e8c8; fill-rule: evenodd;"/>
+          <polygon id="_50" data-name=" 50" points="517.19 258.27 517.19 256.48 820.28 256.48 820.28 258.27 517.19 258.27" style="fill: #40e8c8; fill-rule: evenodd;"/>
+          <polygon id="_51" data-name=" 51" points="517.19 257.08 517.19 255.28 820.28 255.28 820.28 257.08 517.19 257.08" style="fill: #40e9c8; fill-rule: evenodd;"/>
+          <polygon id="_52" data-name=" 52" points="517.19 255.88 517.19 254.08 820.28 254.08 820.28 255.88 517.19 255.88" style="fill: #40e9c8; fill-rule: evenodd;"/>
+          <polygon id="_53" data-name=" 53" points="517.19 254.68 517.19 252.89 820.28 252.89 820.28 254.68 517.19 254.68" style="fill: #40e9c8; fill-rule: evenodd;"/>
+          <polygon id="_54" data-name=" 54" points="517.19 253.49 517.19 251.69 820.28 251.69 820.28 253.49 517.19 253.49" style="fill: #40e9c7; fill-rule: evenodd;"/>
+          <polygon id="_55" data-name=" 55" points="517.19 252.29 517.19 250.5 820.28 250.5 820.28 252.29 517.19 252.29" style="fill: #40e9c7; fill-rule: evenodd;"/>
+          <polygon id="_56" data-name=" 56" points="517.19 251.09 517.19 249.3 820.28 249.3 820.28 251.09 517.19 251.09" style="fill: #40e9c7; fill-rule: evenodd;"/>
+          <polygon id="_57" data-name=" 57" points="517.19 249.9 517.19 248.1 820.28 248.1 820.28 249.9 517.19 249.9" style="fill: #40e9c7; fill-rule: evenodd;"/>
+          <polygon id="_58" data-name=" 58" points="517.19 248.7 517.19 246.91 820.28 246.91 820.28 248.7 517.19 248.7" style="fill: #40e9c7; fill-rule: evenodd;"/>
+          <polygon id="_59" data-name=" 59" points="517.19 247.51 517.19 245.71 820.28 245.71 820.28 247.51 517.19 247.51" style="fill: #40e9c7; fill-rule: evenodd;"/>
+          <polygon id="_60" data-name=" 60" points="517.19 246.31 517.19 244.52 820.28 244.52 820.28 246.31 517.19 246.31" style="fill: #40e9c7; fill-rule: evenodd;"/>
+          <polygon id="_61" data-name=" 61" points="517.19 245.11 517.19 243.32 820.28 243.32 820.28 245.11 517.19 245.11" style="fill: #40e9c7; fill-rule: evenodd;"/>
+          <polygon id="_62" data-name=" 62" points="517.19 243.92 517.19 242.12 820.28 242.12 820.28 243.92 517.19 243.92" style="fill: #40e9c6; fill-rule: evenodd;"/>
+          <polygon id="_63" data-name=" 63" points="517.19 242.72 517.19 240.93 820.28 240.93 820.28 242.72 517.19 242.72" style="fill: #40eac6; fill-rule: evenodd;"/>
+          <polygon id="_64" data-name=" 64" points="517.19 241.52 517.19 239.73 820.28 239.73 820.28 241.52 517.19 241.52" style="fill: #40eac6; fill-rule: evenodd;"/>
+          <polygon id="_65" data-name=" 65" points="517.19 240.33 517.19 238.53 820.28 238.53 820.28 240.33 517.19 240.33" style="fill: #40eac6; fill-rule: evenodd;"/>
+          <polygon id="_66" data-name=" 66" points="517.19 239.13 517.19 237.34 820.28 237.34 820.28 239.13 517.19 239.13" style="fill: #3feac6; fill-rule: evenodd;"/>
+          <polygon id="_67" data-name=" 67" points="517.19 237.94 517.19 236.14 820.28 236.14 820.28 237.94 517.19 237.94" style="fill: #3feac6; fill-rule: evenodd;"/>
+          <polygon id="_68" data-name=" 68" points="517.19 236.74 517.19 234.94 820.28 234.94 820.28 236.74 517.19 236.74" style="fill: #3feac6; fill-rule: evenodd;"/>
+          <polygon id="_69" data-name=" 69" points="517.19 235.54 517.19 233.75 820.28 233.75 820.28 235.54 517.19 235.54" style="fill: #3feac5; fill-rule: evenodd;"/>
+          <polygon id="_70" data-name=" 70" points="517.19 234.35 517.19 232.55 820.28 232.55 820.28 234.35 517.19 234.35" style="fill: #3feac5; fill-rule: evenodd;"/>
+          <polygon id="_71" data-name=" 71" points="517.19 233.15 517.19 231.36 820.28 231.36 820.28 233.15 517.19 233.15" style="fill: #3feac5; fill-rule: evenodd;"/>
+          <polygon id="_72" data-name=" 72" points="517.19 231.95 517.19 230.16 820.28 230.16 820.28 231.95 517.19 231.95" style="fill: #3feac5; fill-rule: evenodd;"/>
+          <polygon id="_73" data-name=" 73" points="517.19 230.76 517.19 228.96 820.28 228.96 820.28 230.76 517.19 230.76" style="fill: #3feac5; fill-rule: evenodd;"/>
+          <polygon id="_74" data-name=" 74" points="517.19 229.56 517.19 227.77 820.28 227.77 820.28 229.56 517.19 229.56" style="fill: #3febc5; fill-rule: evenodd;"/>
+          <polygon id="_75" data-name=" 75" points="517.19 228.36 517.19 226.57 820.28 226.57 820.28 228.36 517.19 228.36" style="fill: #3febc5; fill-rule: evenodd;"/>
+          <polygon id="_76" data-name=" 76" points="517.19 227.17 517.19 225.37 820.28 225.37 820.28 227.17 517.19 227.17" style="fill: #3febc5; fill-rule: evenodd;"/>
+          <polygon id="_77" data-name=" 77" points="517.19 225.97 517.19 224.18 820.28 224.18 820.28 225.97 517.19 225.97" style="fill: #3febc4; fill-rule: evenodd;"/>
+          <polygon id="_78" data-name=" 78" points="517.19 224.78 517.19 222.98 820.28 222.98 820.28 224.78 517.19 224.78" style="fill: #3febc4; fill-rule: evenodd;"/>
+          <polygon id="_79" data-name=" 79" points="517.19 223.58 517.19 221.78 820.28 221.78 820.28 223.58 517.19 223.58" style="fill: #3febc4; fill-rule: evenodd;"/>
+          <polygon id="_80" data-name=" 80" points="517.19 222.38 517.19 220.59 820.28 220.59 820.28 222.38 517.19 222.38" style="fill: #3febc4; fill-rule: evenodd;"/>
+          <polygon id="_81" data-name=" 81" points="517.19 221.19 517.19 219.39 820.28 219.39 820.28 221.19 517.19 221.19" style="fill: #3febc4; fill-rule: evenodd;"/>
+          <polygon id="_82" data-name=" 82" points="517.19 219.99 517.19 218.2 820.28 218.2 820.28 219.99 517.19 219.99" style="fill: #3febc4; fill-rule: evenodd;"/>
+          <polygon id="_83" data-name=" 83" points="517.19 218.79 517.19 217 820.28 217 820.28 218.79 517.19 218.79" style="fill: #3febc4; fill-rule: evenodd;"/>
+          <polygon id="_84" data-name=" 84" points="517.19 217.6 517.19 215.8 820.28 215.8 820.28 217.6 517.19 217.6" style="fill: #3febc4; fill-rule: evenodd;"/>
+          <polygon id="_85" data-name=" 85" points="517.19 216.4 517.19 214.61 820.28 214.61 820.28 216.4 517.19 216.4" style="fill: #3fecc3; fill-rule: evenodd;"/>
+          <polygon id="_86" data-name=" 86" points="517.19 215.2 517.19 213.41 820.28 213.41 820.28 215.2 517.19 215.2" style="fill: #3fecc3; fill-rule: evenodd;"/>
+          <polygon id="_87" data-name=" 87" points="517.19 214.01 517.19 212.21 820.28 212.21 820.28 214.01 517.19 214.01" style="fill: #3fecc3; fill-rule: evenodd;"/>
+          <polygon id="_88" data-name=" 88" points="517.19 212.81 517.19 211.02 820.28 211.02 820.28 212.81 517.19 212.81" style="fill: #3fecc3; fill-rule: evenodd;"/>
+          <polygon id="_89" data-name=" 89" points="517.19 211.62 517.19 209.82 820.28 209.82 820.28 211.62 517.19 211.62" style="fill: #3fecc3; fill-rule: evenodd;"/>
+          <polygon id="_90" data-name=" 90" points="517.19 210.42 517.19 208.63 820.28 208.63 820.28 210.42 517.19 210.42" style="fill: #3fecc3; fill-rule: evenodd;"/>
+          <polygon id="_91" data-name=" 91" points="517.19 209.22 517.19 207.43 820.28 207.43 820.28 209.22 517.19 209.22" style="fill: #3fecc3; fill-rule: evenodd;"/>
+          <polygon id="_92" data-name=" 92" points="517.19 208.03 517.19 206.23 820.28 206.23 820.28 208.03 517.19 208.03" style="fill: #3fecc2; fill-rule: evenodd;"/>
+          <polygon id="_93" data-name=" 93" points="517.19 206.83 517.19 205.04 820.28 205.04 820.28 206.83 517.19 206.83" style="fill: #3fecc2; fill-rule: evenodd;"/>
+          <polygon id="_94" data-name=" 94" points="517.19 205.63 517.19 203.84 820.28 203.84 820.28 205.63 517.19 205.63" style="fill: #3fecc2; fill-rule: evenodd;"/>
+          <polygon id="_95" data-name=" 95" points="517.19 204.44 517.19 202.64 820.28 202.64 820.28 204.44 517.19 204.44" style="fill: #3fedc2; fill-rule: evenodd;"/>
+          <polygon id="_96" data-name=" 96" points="517.19 203.24 517.19 201.45 820.28 201.45 820.28 203.24 517.19 203.24" style="fill: #3fedc2; fill-rule: evenodd;"/>
+          <polygon id="_97" data-name=" 97" points="517.19 202.05 517.19 200.25 820.28 200.25 820.28 202.05 517.19 202.05" style="fill: #3fedc2; fill-rule: evenodd;"/>
+          <polygon id="_98" data-name=" 98" points="517.19 200.85 517.19 199.05 820.28 199.05 820.28 200.85 517.19 200.85" style="fill: #3fedc2; fill-rule: evenodd;"/>
+          <polygon id="_99" data-name=" 99" points="517.19 199.65 517.19 197.86 820.28 197.86 820.28 199.65 517.19 199.65" style="fill: #3fedc1; fill-rule: evenodd;"/>
+          <polygon id="_100" data-name=" 100" points="517.19 198.46 517.19 196.66 820.28 196.66 820.28 198.46 517.19 198.46" style="fill: #3fedc1; fill-rule: evenodd;"/>
+          <polygon id="_101" data-name=" 101" points="517.19 197.26 517.19 195.47 820.28 195.47 820.28 197.26 517.19 197.26" style="fill: #3fedc1; fill-rule: evenodd;"/>
+          <polygon id="_102" data-name=" 102" points="517.19 196.06 517.19 194.27 820.28 194.27 820.28 196.06 517.19 196.06" style="fill: #3fedc1; fill-rule: evenodd;"/>
+          <polygon id="_103" data-name=" 103" points="517.19 194.87 517.19 193.07 820.28 193.07 820.28 194.87 517.19 194.87" style="fill: #3fedc1; fill-rule: evenodd;"/>
+          <polygon id="_104" data-name=" 104" points="517.19 193.67 517.19 191.88 820.28 191.88 820.28 193.67 517.19 193.67" style="fill: #3fedc1; fill-rule: evenodd;"/>
+          <polygon id="_105" data-name=" 105" points="517.19 192.47 517.19 190.68 820.28 190.68 820.28 192.47 517.19 192.47" style="fill: #3feec1; fill-rule: evenodd;"/>
+          <polygon id="_106" data-name=" 106" points="517.19 191.28 517.19 189.48 820.28 189.48 820.28 191.28 517.19 191.28" style="fill: #3feec0; fill-rule: evenodd;"/>
+          <polygon id="_107" data-name=" 107" points="517.19 190.08 517.19 188.29 820.28 188.29 820.28 190.08 517.19 190.08" style="fill: #3feec0; fill-rule: evenodd;"/>
+          <polygon id="_108" data-name=" 108" points="517.19 188.89 517.19 187.09 820.28 187.09 820.28 188.89 517.19 188.89" style="fill: #3feec0; fill-rule: evenodd;"/>
+          <polygon id="_109" data-name=" 109" points="517.19 187.69 517.19 185.89 820.28 185.89 820.28 187.69 517.19 187.69" style="fill: #3feec0; fill-rule: evenodd;"/>
+          <polygon id="_110" data-name=" 110" points="517.19 186.49 517.19 184.7 820.28 184.7 820.28 186.49 517.19 186.49" style="fill: #3feec0; fill-rule: evenodd;"/>
+          <polygon id="_111" data-name=" 111" points="517.19 185.3 517.19 183.5 820.28 183.5 820.28 185.3 517.19 185.3" style="fill: #3feec0; fill-rule: evenodd;"/>
+          <polygon id="_112" data-name=" 112" points="517.19 184.1 517.19 182.31 820.28 182.31 820.28 184.1 517.19 184.1" style="fill: #3feec0; fill-rule: evenodd;"/>
+          <polygon id="_113" data-name=" 113" points="517.19 182.9 517.19 181.11 820.28 181.11 820.28 182.9 517.19 182.9" style="fill: #3feebf; fill-rule: evenodd;"/>
+          <polygon id="_114" data-name=" 114" points="517.19 181.71 517.19 179.91 820.28 179.91 820.28 181.71 517.19 181.71" style="fill: #3feebf; fill-rule: evenodd;"/>
+          <polygon id="_115" data-name=" 115" points="517.19 180.51 517.19 178.72 820.28 178.72 820.28 180.51 517.19 180.51" style="fill: #3fefbf; fill-rule: evenodd;"/>
+          <polygon id="_116" data-name=" 116" points="517.19 179.32 517.19 177.52 820.28 177.52 820.28 179.32 517.19 179.32" style="fill: #3fefbf; fill-rule: evenodd;"/>
+          <polygon id="_117" data-name=" 117" points="517.19 178.12 517.19 176.33 820.28 176.33 820.28 178.12 517.19 178.12" style="fill: #3fefbf; fill-rule: evenodd;"/>
+          <polygon id="_118" data-name=" 118" points="517.19 176.92 517.19 175.13 820.28 175.13 820.28 176.92 517.19 176.92" style="fill: #3fefbf; fill-rule: evenodd;"/>
+          <polygon id="_119" data-name=" 119" points="517.19 175.73 517.19 173.93 820.28 173.93 820.28 175.73 517.19 175.73" style="fill: #3fefbf; fill-rule: evenodd;"/>
+          <polygon id="_120" data-name=" 120" points="517.19 174.53 517.19 172.74 820.28 172.74 820.28 174.53 517.19 174.53" style="fill: #3eefbe; fill-rule: evenodd;"/>
+          <polygon id="_121" data-name=" 121" points="517.19 173.33 517.19 171.54 820.28 171.54 820.28 173.33 517.19 173.33" style="fill: #3eefbe; fill-rule: evenodd;"/>
+          <polygon id="_122" data-name=" 122" points="517.19 172.14 517.19 170.34 820.28 170.34 820.28 172.14 517.19 172.14" style="fill: #3eefbe; fill-rule: evenodd;"/>
+          <polygon id="_123" data-name=" 123" points="517.19 170.94 517.19 169.15 820.28 169.15 820.28 170.94 517.19 170.94" style="fill: #3eefbe; fill-rule: evenodd;"/>
+          <polygon id="_124" data-name=" 124" points="517.19 169.75 517.19 167.95 820.28 167.95 820.28 169.75 517.19 169.75" style="fill: #3ef0be; fill-rule: evenodd;"/>
+          <polygon id="_125" data-name=" 125" points="517.19 168.55 517.19 166.75 820.28 166.75 820.28 168.55 517.19 168.55" style="fill: #3ef0be; fill-rule: evenodd;"/>
+          <polygon id="_126" data-name=" 126" points="517.19 167.35 517.19 165.56 820.28 165.56 820.28 167.35 517.19 167.35" style="fill: #3ef0bd; fill-rule: evenodd;"/>
+          <polygon id="_127" data-name=" 127" points="517.19 166.16 517.19 164.36 820.28 164.36 820.28 166.16 517.19 166.16" style="fill: #3ef0bd; fill-rule: evenodd;"/>
+          <polygon id="_128" data-name=" 128" points="517.19 164.96 517.19 163.17 820.28 163.17 820.28 164.96 517.19 164.96" style="fill: #3ef0bd; fill-rule: evenodd;"/>
+          <polygon id="_129" data-name=" 129" points="517.19 163.76 517.19 161.97 820.28 161.97 820.28 163.76 517.19 163.76" style="fill: #3ef0bd; fill-rule: evenodd;"/>
+          <polygon id="_130" data-name=" 130" points="517.19 162.57 517.19 160.77 820.28 160.77 820.28 162.57 517.19 162.57" style="fill: #3ef0bd; fill-rule: evenodd;"/>
+          <polygon id="_131" data-name=" 131" points="517.19 161.37 517.19 159.58 820.28 159.58 820.28 161.37 517.19 161.37" style="fill: #3ef0bd; fill-rule: evenodd;"/>
+          <polygon id="_132" data-name=" 132" points="517.19 160.17 517.19 158.38 820.28 158.38 820.28 160.17 517.19 160.17" style="fill: #3ef0bc; fill-rule: evenodd;"/>
+          <polygon id="_133" data-name=" 133" points="517.19 158.98 517.19 157.18 820.28 157.18 820.28 158.98 517.19 158.98" style="fill: #3ef1bc; fill-rule: evenodd;"/>
+          <polygon id="_134" data-name=" 134" points="517.19 157.78 517.19 155.99 820.28 155.99 820.28 157.78 517.19 157.78" style="fill: #3ef1bc; fill-rule: evenodd;"/>
+          <polygon id="_135" data-name=" 135" points="517.19 156.59 517.19 154.79 820.28 154.79 820.28 156.59 517.19 156.59" style="fill: #3ef1bc; fill-rule: evenodd;"/>
+          <polygon id="_136" data-name=" 136" points="517.19 155.39 517.19 153.59 820.28 153.59 820.28 155.39 517.19 155.39" style="fill: #3ef1bc; fill-rule: evenodd;"/>
+          <polygon id="_137" data-name=" 137" points="517.19 154.19 517.19 152.4 820.28 152.4 820.28 154.19 517.19 154.19" style="fill: #3ef1bc; fill-rule: evenodd;"/>
+          <polygon id="_138" data-name=" 138" points="517.19 153 517.19 151.2 820.28 151.2 820.28 153 517.19 153" style="fill: #3ef1bc; fill-rule: evenodd;"/>
+          <polygon id="_139" data-name=" 139" points="517.19 151.8 517.19 150.01 820.28 150.01 820.28 151.8 517.19 151.8" style="fill: #3ef1bb; fill-rule: evenodd;"/>
+          <polygon id="_140" data-name=" 140" points="517.19 150.6 517.19 148.81 820.28 148.81 820.28 150.6 517.19 150.6" style="fill: #3ef1bb; fill-rule: evenodd;"/>
+          <polygon id="_141" data-name=" 141" points="517.19 149.41 517.19 147.61 820.28 147.61 820.28 149.41 517.19 149.41" style="fill: #3ef1bb; fill-rule: evenodd;"/>
+          <polygon id="_142" data-name=" 142" points="517.19 148.21 517.19 146.42 820.28 146.42 820.28 148.21 517.19 148.21" style="fill: #3ef2bb; fill-rule: evenodd;"/>
+          <polygon id="_143" data-name=" 143" points="517.19 147.01 517.19 145.22 820.28 145.22 820.28 147.01 517.19 147.01" style="fill: #3ef2bb; fill-rule: evenodd;"/>
+          <polygon id="_144" data-name=" 144" points="517.19 145.82 517.19 144.02 820.28 144.02 820.28 145.82 517.19 145.82" style="fill: #3ef2bb; fill-rule: evenodd;"/>
+          <polygon id="_145" data-name=" 145" points="517.19 144.62 517.19 142.83 820.28 142.83 820.28 144.62 517.19 144.62" style="fill: #3ef2ba; fill-rule: evenodd;"/>
+          <polygon id="_146" data-name=" 146" points="517.19 143.43 517.19 141.63 820.28 141.63 820.28 143.43 517.19 143.43" style="fill: #3ef2ba; fill-rule: evenodd;"/>
+          <polygon id="_147" data-name=" 147" points="517.19 142.23 517.19 140.44 820.28 140.44 820.28 142.23 517.19 142.23" style="fill: #3ef2ba; fill-rule: evenodd;"/>
+          <polygon id="_148" data-name=" 148" points="517.19 141.03 517.19 139.24 820.28 139.24 820.28 141.03 517.19 141.03" style="fill: #3ef2ba; fill-rule: evenodd;"/>
+          <polygon id="_149" data-name=" 149" points="517.19 139.84 517.19 138.04 820.28 138.04 820.28 139.84 517.19 139.84" style="fill: #3ef2ba; fill-rule: evenodd;"/>
+          <polygon id="_150" data-name=" 150" points="517.19 138.64 517.19 136.85 820.28 136.85 820.28 138.64 517.19 138.64" style="fill: #3ef2ba; fill-rule: evenodd;"/>
+          <polygon id="_151" data-name=" 151" points="517.19 137.44 517.19 135.65 820.28 135.65 820.28 137.44 517.19 137.44" style="fill: #3ef3b9; fill-rule: evenodd;"/>
+          <polygon id="_152" data-name=" 152" points="517.19 136.25 517.19 134.45 820.28 134.45 820.28 136.25 517.19 136.25" style="fill: #3ef3b9; fill-rule: evenodd;"/>
+          <polygon id="_153" data-name=" 153" points="517.19 135.05 517.19 133.26 820.28 133.26 820.28 135.05 517.19 135.05" style="fill: #3ef3b9; fill-rule: evenodd;"/>
+          <polygon id="_154" data-name=" 154" points="517.19 133.86 517.19 132.06 820.28 132.06 820.28 133.86 517.19 133.86" style="fill: #3ef3b9; fill-rule: evenodd;"/>
+          <polygon id="_155" data-name=" 155" points="517.19 132.66 517.19 130.86 820.28 130.86 820.28 132.66 517.19 132.66" style="fill: #3ef3b9; fill-rule: evenodd;"/>
+          <polygon id="_156" data-name=" 156" points="517.19 131.46 517.19 129.67 820.28 129.67 820.28 131.46 517.19 131.46" style="fill: #3ef3b9; fill-rule: evenodd;"/>
+          <polygon id="_157" data-name=" 157" points="517.19 130.27 517.19 128.47 820.28 128.47 820.28 130.27 517.19 130.27" style="fill: #3ef3b8; fill-rule: evenodd;"/>
+          <polygon id="_158" data-name=" 158" points="517.19 129.07 517.19 127.28 820.28 127.28 820.28 129.07 517.19 129.07" style="fill: #3ef3b8; fill-rule: evenodd;"/>
+          <polygon id="_159" data-name=" 159" points="517.19 127.87 517.19 126.08 820.28 126.08 820.28 127.87 517.19 127.87" style="fill: #3ef4b8; fill-rule: evenodd;"/>
+          <polygon id="_160" data-name=" 160" points="517.19 126.68 517.19 124.88 820.28 124.88 820.28 126.68 517.19 126.68" style="fill: #3ef4b8; fill-rule: evenodd;"/>
+          <polygon id="_161" data-name=" 161" points="517.19 125.48 517.19 123.69 820.28 123.69 820.28 125.48 517.19 125.48" style="fill: #3ef4b8; fill-rule: evenodd;"/>
+          <polygon id="_162" data-name=" 162" points="517.19 124.28 517.19 122.49 820.28 122.49 820.28 124.28 517.19 124.28" style="fill: #3ef4b8; fill-rule: evenodd;"/>
+          <polygon id="_163" data-name=" 163" points="517.19 123.09 517.19 121.29 820.28 121.29 820.28 123.09 517.19 123.09" style="fill: #3ef4b7; fill-rule: evenodd;"/>
+          <polygon id="_164" data-name=" 164" points="517.19 121.89 517.19 120.1 820.28 120.1 820.28 121.89 517.19 121.89" style="fill: #3ef4b7; fill-rule: evenodd;"/>
+          <polygon id="_165" data-name=" 165" points="517.19 120.7 517.19 118.9 820.28 118.9 820.28 120.7 517.19 120.7" style="fill: #3df4b7; fill-rule: evenodd;"/>
+          <polygon id="_166" data-name=" 166" points="517.19 119.5 517.19 117.7 820.28 117.7 820.28 119.5 517.19 119.5" style="fill: #3df4b7; fill-rule: evenodd;"/>
+          <polygon id="_167" data-name=" 167" points="517.19 118.3 517.19 116.51 820.28 116.51 820.28 118.3 517.19 118.3" style="fill: #3df5b7; fill-rule: evenodd;"/>
+          <polygon id="_168" data-name=" 168" points="517.19 117.11 517.19 115.31 820.28 115.31 820.28 117.11 517.19 117.11" style="fill: #3df5b6; fill-rule: evenodd;"/>
+          <polygon id="_169" data-name=" 169" points="517.19 115.91 517.19 114.12 820.28 114.12 820.28 115.91 517.19 115.91" style="fill: #3df5b6; fill-rule: evenodd;"/>
+          <polygon id="_170" data-name=" 170" points="517.19 114.71 517.19 112.92 820.28 112.92 820.28 114.71 517.19 114.71" style="fill: #3df5b6; fill-rule: evenodd;"/>
+          <polygon id="_171" data-name=" 171" points="517.19 113.52 517.19 111.72 820.28 111.72 820.28 113.52 517.19 113.52" style="fill: #3df5b6; fill-rule: evenodd;"/>
+          <polygon id="_172" data-name=" 172" points="517.19 112.32 517.19 110.53 820.28 110.53 820.28 112.32 517.19 112.32" style="fill: #3df5b6; fill-rule: evenodd;"/>
+          <polygon id="_173" data-name=" 173" points="517.19 111.13 517.19 109.33 820.28 109.33 820.28 111.13 517.19 111.13" style="fill: #3df5b6; fill-rule: evenodd;"/>
+          <polygon id="_174" data-name=" 174" points="517.19 109.93 517.19 108.14 820.28 108.14 820.28 109.93 517.19 109.93" style="fill: #3df5b5; fill-rule: evenodd;"/>
+          <polygon id="_175" data-name=" 175" points="517.19 108.73 517.19 106.94 820.28 106.94 820.28 108.73 517.19 108.73" style="fill: #3df6b5; fill-rule: evenodd;"/>
+          <polygon id="_176" data-name=" 176" points="517.19 107.54 517.19 105.74 820.28 105.74 820.28 107.54 517.19 107.54" style="fill: #3df6b5; fill-rule: evenodd;"/>
+          <polygon id="_177" data-name=" 177" points="517.19 106.34 517.19 104.55 820.28 104.55 820.28 106.34 517.19 106.34" style="fill: #3df6b5; fill-rule: evenodd;"/>
+          <polygon id="_178" data-name=" 178" points="517.19 105.14 517.19 103.35 820.28 103.35 820.28 105.14 517.19 105.14" style="fill: #3df6b5; fill-rule: evenodd;"/>
+          <polygon id="_179" data-name=" 179" points="517.19 103.95 517.19 102.15 820.28 102.15 820.28 103.95 517.19 103.95" style="fill: #3df6b4; fill-rule: evenodd;"/>
+          <polygon id="_180" data-name=" 180" points="517.19 102.75 517.19 100.96 820.28 100.96 820.28 102.75 517.19 102.75" style="fill: #3df6b4; fill-rule: evenodd;"/>
+          <polygon id="_181" data-name=" 181" points="517.19 101.56 517.19 99.76 820.28 99.76 820.28 101.56 517.19 101.56" style="fill: #3df6b4; fill-rule: evenodd;"/>
+          <polygon id="_182" data-name=" 182" points="517.19 100.36 517.19 98.56 820.28 98.56 820.28 100.36 517.19 100.36" style="fill: #3df6b4; fill-rule: evenodd;"/>
+          <polygon id="_183" data-name=" 183" points="517.19 99.16 517.19 97.37 820.28 97.37 820.28 99.16 517.19 99.16" style="fill: #3df7b4; fill-rule: evenodd;"/>
+          <polygon id="_184" data-name=" 184" points="517.19 97.97 517.19 96.17 820.28 96.17 820.28 97.97 517.19 97.97" style="fill: #3df7b4; fill-rule: evenodd;"/>
+          <polygon id="_185" data-name=" 185" points="517.19 96.77 517.19 94.98 820.28 94.98 820.28 96.77 517.19 96.77" style="fill: #3df7b3; fill-rule: evenodd;"/>
+          <polygon id="_186" data-name=" 186" points="517.19 95.57 517.19 93.78 820.28 93.78 820.28 95.57 517.19 95.57" style="fill: #3df7b3; fill-rule: evenodd;"/>
+          <polygon id="_187" data-name=" 187" points="517.19 94.38 517.19 92.58 820.28 92.58 820.28 94.38 517.19 94.38" style="fill: #3df7b3; fill-rule: evenodd;"/>
+          <polygon id="_188" data-name=" 188" points="517.19 93.18 517.19 91.39 820.28 91.39 820.28 93.18 517.19 93.18" style="fill: #3df7b3; fill-rule: evenodd;"/>
+          <polygon id="_189" data-name=" 189" points="517.19 91.98 517.19 90.19 820.28 90.19 820.28 91.98 517.19 91.98" style="fill: #3df7b3; fill-rule: evenodd;"/>
+          <polygon id="_190" data-name=" 190" points="517.19 90.79 517.19 88.99 820.28 88.99 820.28 90.79 517.19 90.79" style="fill: #3df8b2; fill-rule: evenodd;"/>
+          <polygon id="_191" data-name=" 191" points="517.19 89.59 517.19 87.8 820.28 87.8 820.28 89.59 517.19 89.59" style="fill: #3df8b2; fill-rule: evenodd;"/>
+          <polygon id="_192" data-name=" 192" points="517.19 88.4 517.19 86.6 820.28 86.6 820.28 88.4 517.19 88.4" style="fill: #3df8b2; fill-rule: evenodd;"/>
+          <polygon id="_193" data-name=" 193" points="517.19 87.2 517.19 85.4 820.28 85.4 820.28 87.2 517.19 87.2" style="fill: #3df8b2; fill-rule: evenodd;"/>
+          <polygon id="_194" data-name=" 194" points="517.19 86 517.19 84.21 820.28 84.21 820.28 86 517.19 86" style="fill: #3df8b2; fill-rule: evenodd;"/>
+          <polygon id="_195" data-name=" 195" points="517.19 84.81 517.19 83.01 820.28 83.01 820.28 84.81 517.19 84.81" style="fill: #3df8b1; fill-rule: evenodd;"/>
+          <polygon id="_196" data-name=" 196" points="517.19 83.61 517.19 81.82 820.28 81.82 820.28 83.61 517.19 83.61" style="fill: #3df8b1; fill-rule: evenodd;"/>
+          <polygon id="_197" data-name=" 197" points="517.19 82.41 517.19 80.62 820.28 80.62 820.28 82.41 517.19 82.41" style="fill: #3df8b1; fill-rule: evenodd;"/>
+          <polygon id="_198" data-name=" 198" points="517.19 81.22 517.19 79.42 820.28 79.42 820.28 81.22 517.19 81.22" style="fill: #3df9b1; fill-rule: evenodd;"/>
+          <polygon id="_199" data-name=" 199" points="517.19 80.02 517.19 78.23 820.28 78.23 820.28 80.02 517.19 80.02" style="fill: #3df9b1; fill-rule: evenodd;"/>
+          <polygon id="_200" data-name=" 200" points="517.19 78.82 517.19 77.03 820.28 77.03 820.28 78.82 517.19 78.82" style="fill: #3df9b0; fill-rule: evenodd;"/>
+          <polygon id="_201" data-name=" 201" points="517.19 77.63 517.19 75.83 820.28 75.83 820.28 77.63 517.19 77.63" style="fill: #3df9b0; fill-rule: evenodd;"/>
+          <polygon id="_202" data-name=" 202" points="517.19 76.43 517.19 74.64 820.28 74.64 820.28 76.43 517.19 76.43" style="fill: #3df9b0; fill-rule: evenodd;"/>
+          <polygon id="_203" data-name=" 203" points="517.19 75.24 517.19 73.44 820.28 73.44 820.28 75.24 517.19 75.24" style="fill: #3df9b0; fill-rule: evenodd;"/>
+          <polygon id="_204" data-name=" 204" points="517.19 74.04 517.19 72.25 820.28 72.25 820.28 74.04 517.19 74.04" style="fill: #3cf9b0; fill-rule: evenodd;"/>
+          <polygon id="_205" data-name=" 205" points="517.19 72.84 517.19 71.05 820.28 71.05 820.28 72.84 517.19 72.84" style="fill: #3cfaaf; fill-rule: evenodd;"/>
+          <polygon id="_206" data-name=" 206" points="517.19 71.65 517.19 69.85 820.28 69.85 820.28 71.65 517.19 71.65" style="fill: #3cfaaf; fill-rule: evenodd;"/>
+          <polygon id="_207" data-name=" 207" points="517.19 70.45 517.19 68.66 820.28 68.66 820.28 70.45 517.19 70.45" style="fill: #3cfaaf; fill-rule: evenodd;"/>
+          <polygon id="_208" data-name=" 208" points="517.19 69.25 517.19 67.46 820.28 67.46 820.28 69.25 517.19 69.25" style="fill: #3cfaaf; fill-rule: evenodd;"/>
+          <polygon id="_209" data-name=" 209" points="517.19 68.06 517.19 66.26 820.28 66.26 820.28 68.06 517.19 68.06" style="fill: #3cfaaf; fill-rule: evenodd;"/>
+          <polygon id="_210" data-name=" 210" points="517.19 66.86 517.19 65.07 820.28 65.07 820.28 66.86 517.19 66.86" style="fill: #3cfaae; fill-rule: evenodd;"/>
+          <polygon id="_211" data-name=" 211" points="517.19 65.67 517.19 63.87 820.28 63.87 820.28 65.67 517.19 65.67" style="fill: #3cfbae; fill-rule: evenodd;"/>
+          <polygon id="_212" data-name=" 212" points="517.19 64.47 517.19 62.67 820.28 62.67 820.28 64.47 517.19 64.47" style="fill: #3cfbae; fill-rule: evenodd;"/>
+          <polygon id="_213" data-name=" 213" points="517.19 63.27 517.19 61.48 820.28 61.48 820.28 63.27 517.19 63.27" style="fill: #3cfbae; fill-rule: evenodd;"/>
+          <polygon id="_214" data-name=" 214" points="517.19 62.08 517.19 60.28 820.28 60.28 820.28 62.08 517.19 62.08" style="fill: #3cfbae; fill-rule: evenodd;"/>
+          <polygon id="_215" data-name=" 215" points="517.19 60.88 517.19 59.09 820.28 59.09 820.28 60.88 517.19 60.88" style="fill: #3cfbad; fill-rule: evenodd;"/>
+          <polygon id="_216" data-name=" 216" points="517.19 59.68 517.19 57.89 820.28 57.89 820.28 59.68 517.19 59.68" style="fill: #3cfbad; fill-rule: evenodd;"/>
+          <polygon id="_217" data-name=" 217" points="517.19 58.49 517.19 56.69 820.28 56.69 820.28 58.49 517.19 58.49" style="fill: #3cfbad; fill-rule: evenodd;"/>
+          <polygon id="_218" data-name=" 218" points="517.19 57.29 517.19 55.5 820.28 55.5 820.28 57.29 517.19 57.29" style="fill: #3cfcad; fill-rule: evenodd;"/>
+          <polygon id="_219" data-name=" 219" points="517.19 56.09 517.19 54.3 820.28 54.3 820.28 56.09 517.19 56.09" style="fill: #3cfcac; fill-rule: evenodd;"/>
+          <polygon id="_220" data-name=" 220" points="517.19 54.9 517.19 53.1 820.28 53.1 820.28 54.9 517.19 54.9" style="fill: #3cfcac; fill-rule: evenodd;"/>
+          <polygon id="_221" data-name=" 221" points="517.19 53.7 517.19 50.38 820.28 50.38 820.28 53.7 517.19 53.7" style="fill: #3cfcac; fill-rule: evenodd;"/>
+        </g>
+      </g>
+      <path d="M659.57,328.08v114.62c0,7.95,18.91,12.6,18.91-5.91v-106.35c0-14.45-18.91-15.1-18.91-2.36Z" style="fill: #3fe9cc; fill-rule: evenodd;"/>
+      <g>
+        <path d="M852.19,77.56v204.43c0,7.31,1.64,15.63,5.01,19.81,6.55,8.13,16.63,10.52,27.09,6.38,9.1-3.6,12.58-14.55,12.85-24.97,1.15-44.55-.04-104.37-.04-150.12,2.58,1.89,7.68,9.04,10.13,12.32l40,52.17c3.78,4.84,6.71,8.54,10.3,13.33l60.61,78.83c7.8,10.43,12.48,19.21,25.78,20.33,12.15,1.02,23.35-8.66,23.35-23.37V72.83c0-20.97-26.67-27.98-38.71-13.89-4.74,5.55-5.08,9.72-5.02,19.79v150.08c-3.18-2.13-46.99-59.83-52.83-67.7-6.02-8.11-12.12-15.5-18.08-23.28l-44.04-57.58c-3.18-4.26-5.6-7.04-8.78-11.3-5.63-7.54-11.21-17.39-23.97-17.39-14.92,0-23.63,10.98-23.63,26h0Z" style="fill: #fff; fill-rule: evenodd;"/>
+        <path d="M383.05,169.73h-63.81v-79.17c19,0,66.18-1.56,81.81,2.09,9.66,2.25,19.47,7.31,23.98,16.2,7.11,14.02,6.86,42.53-9.81,52.88-8.05,5-19.66,8.01-32.17,8.01h0ZM273.16,74.01v212.7c0,7.37,2.08,12.73,5.69,16.76,12.02,13.41,40.39,5.81,40.39-12.03v-85.08c69.22,0,53.83-4.91,100.44,64.99,13.97,20.95,20.79,39,39,39,12.02,0,22.45-8.51,22.45-18.91s-20.67-37.02-28.29-49.7c-1.61-2.67-2.1-3.27-3.78-5.68-4.29-6.17-5.62-10.01-12-17.55-4.52-5.34-15.03-15.02-23.29-15.71,2.88-3.93-1.49-.56,10.8-4.56,47.66-15.51,58.88-64.71,43.41-102.82-10.98-27.06-43.23-41.51-71.93-41.51h-102.81c-11.48,0-20.09,8.74-20.09,20.09h0Z" style="fill: #fff; fill-rule: evenodd;"/>
+        <path d="M1262.23,237.09c0,24.16-22.29,35.45-42.54,35.45-30.11,0-45.88,1.17-73.33-15.29-6.19-3.71-14.06-10.24-22.4-10.17-14.03.12-15.34,12.95-15.34,23.1,0,18.39,43.29,33.06,60,36.89,35.78,8.2,82.75,5.2,112.37-16.96,22.86-17.11,33.48-47.13,23.98-75.66-2.22-6.66-3.96-8.52-7.49-13.78-11.24-16.75-36.31-25.2-54.87-31.39-10.97-3.66-23.52-6.19-34.73-8.99-20.2-5.05-50.33-11.76-47.82-37.17,1.24-12.51,5.61-20.58,16.68-27.06,20.31-11.89,57.2-9.41,77.82,1.01,5.82,2.94,10.61,5.64,15.72,9.1,7.32,4.95,10.65,8.03,20.33,8.03,11.92,0,14.18-13.29,14.18-22.45,0-16.7-41.16-35.12-59.57-38.51-38.65-7.12-87.27-1.81-113.25,27.59-19.17,21.69-24.66,55.42-9.87,80.17,21.33,35.72,83.63,38.54,112.16,49.73,11.88,4.66,27.99,10.38,27.99,26.36h0Z" style="fill: #fff; fill-rule: evenodd;"/>
+        <path d="M1444.21,128.37c0,8.8,2.42,20.07,5.49,26.42,10.7,22.1,32.26,33.24,56.62,40.28,28.7,8.3,86.79,14.46,86.79,42.01,0,23.84-22.05,35.45-42.54,35.45-31.44,0-45.45,1.33-74.08-15.73-6.05-3.6-14.28-10.37-22.71-9.88-4.07.24-7.98,2.77-10.47,5.8-12.28,14.94-.89,28.13,11.52,36.38,6.61,4.39,18.66,10.35,27.05,13.13,25.77,8.54,31.77,5.75,51.47,8.81,11.6,1.8,40.46-3.03,52.25-7.02,9.88-3.35,18.15-8.55,26.2-13.98,16.59-11.19,27.4-31.97,27.4-57.68,0-39.94-37.05-53.52-65.72-63.09-29.9-9.98-86.17-12.17-82.74-46.34,4.2-41.8,66.04-40.07,94.5-25.69,16.75,8.47,23.98,16.95,36.23,16.95s14.18-13.29,14.18-22.45c0-12.49-24.54-25.61-34.65-30.35-30.72-14.4-81.88-15.41-113,.87-25.09,13.12-43.79,35.27-43.79,66.11h0Z" style="fill: #fff; fill-rule: evenodd;"/>
+        <path d="M25,71.65c0,15.64,9.17,21.27,24.82,21.27h62.63v194.98c0,11.74,9.75,21.27,17.73,21.27,16.27,0,29.54-1.34,29.54-26V92.92h63.81c23.87,0,22.45-13.79,22.45-24.82,0-7.87-9.41-14.18-17.73-14.18H43.91c-11.32,0-18.91,8.45-18.91,17.73Z" style="fill: #fff; fill-rule: evenodd;"/>
+        <path d="M1681.73,72.83v217.43c0,17.24,28.02,28.41,41.61,12.06,3.98-4.79,5.66-11.93,5.66-20.34V78.74c0-8.29-1.47-14.61-5.57-19.25-13.32-15.09-41.7-7.85-41.7,13.34Z" style="fill: #fff; fill-rule: evenodd;"/>
+        <path d="M1350.86,72.83v216.25c0,9.31,7.27,16.95,13.8,19.28,17.32,6.17,33.46-3.85,33.46-22.83V76.38c0-34.17-47.27-30.85-47.27-3.55h0Z" style="fill: #fff; fill-rule: evenodd;"/>
+        <path d="M703.29,338.71v57.9c0,12.92,18.91,12.02,18.91-1.18v-54.36c0-13.91-18.91-10.87-18.91-2.36h0Z" style="fill: #fff; fill-rule: evenodd;"/>
+        <path d="M614.66,342.26v50.81c0,17.45,18.91,16.08,18.91,3.54v-57.9c0-9.28-18.91-11.02-18.91,3.55h0Z" style="fill: #fff; fill-rule: evenodd;"/>
+      </g>
+    </g>
+  </g>
+</svg>

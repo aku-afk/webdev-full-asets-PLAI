@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="W-WICARA" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1968 500">
+  <defs>
+    <linearGradient id="linear-gradient" x1="725.77" y1="-816.45" x2="1141.75" y2="-816.45" gradientTransform="translate(0 -608) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#26a7df"/>
+      <stop offset=".19" stop-color="#25a1d9"/>
+      <stop offset=".43" stop-color="#2492c9"/>
+      <stop offset=".69" stop-color="#2279af"/>
+      <stop offset=".97" stop-color="#1f578b"/>
+      <stop offset="1" stop-color="#1f5488"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path d="M1050.09,480.31v-79.88h-306.51c-36.06,0-65.39-29.33-65.39-65.39V85.08c0-36.06,29.33-65.39,65.39-65.39h332.26c36.06,0,65.39,29.33,65.39,65.39v249.96c0,2.89-.19,5.78-.58,8.61-5.74,82.66-72.41,125.3-75.26,127.07l-15.32,9.6h.02ZM743.56,39.7c-25.01,0-45.37,20.35-45.37,45.37v249.96c0,25.01,20.35,45.36,45.37,45.36h326.54v61.23c4.86-4.4,10.47-9.97,16.1-16.68,20.85-24.84,32.46-52.75,34.49-83.01l.07-.73c.28-2.03.43-4.12.43-6.19V85.06c0-25.03-20.35-45.37-45.37-45.37h-332.26v.02Z" style="fill: #1f5488;"/>
+    <path d="M844.67,330.75h-.24c-4.71-.11-8.78-3.34-9.95-7.88l-32.95-127.03-4.42,13.51c-1.42,4.34-5.46,7.27-10.03,7.27h-50.8c-5.81,0-10.53-4.71-10.53-10.53s4.71-10.53,10.53-10.53h43.16l13.21-40.49c1.45-4.45,5.63-7.42,10.34-7.27,4.68.15,8.7,3.35,9.88,7.88l32.68,126,58.14-188.11c1.38-4.45,5.55-7.47,10.19-7.42,4.68.06,8.74,3.19,10.01,7.68l52.96,187.89,30.43-105.93c1.3-4.51,5.42-7.62,10.14-7.62h113.8c5.81,0,10.53,4.71,10.53,10.53s-4.71,10.53-10.53,10.53h-105.86l-38.46,133.9c-1.3,4.51-5.42,7.62-10.14,7.62h-.02c-4.71,0-8.83-3.15-10.12-7.68l-53.33-189.21-58.57,189.47c-1.36,4.42-5.46,7.42-10.06,7.42h0Z" style="fill: url(#linear-gradient);"/>
+  </g>
+  <g style="isolation: isolate;">
+    <text transform="translate(20 276.84)" style="fill: #1f5488; font-family: ArialMT, Arial; font-size: 268.54px; isolation: isolate;"><tspan x="0" y="0">widya</tspan></text>
+  </g>
+  <g style="isolation: isolate;">
+    <text transform="translate(1172.24 274.23)" style="fill: #1f5488; font-family: ArialMT, Arial; font-size: 268.46px; isolation: isolate;"><tspan x="0" y="0">wicara</tspan></text>
+  </g>
+</svg>
